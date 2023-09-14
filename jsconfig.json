@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2017",
+    "baseUrl": ".",
+  },
+  "include": ["index.js"],
+}
